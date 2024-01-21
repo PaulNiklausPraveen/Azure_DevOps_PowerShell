@@ -5,7 +5,7 @@
     This script will start the build pipelines in Azure DevOps
 .EXAMPLE
     Example syntax for running the script or function
-    PS C:\> Invoke-BuildPipeline
+    PS C:\> Invoke-ADOBuild
 .NOTES
     Filename: Invoke-BuildPipeline.ps1
     Author: Praveen M
