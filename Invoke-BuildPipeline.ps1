@@ -7,7 +7,7 @@
     Example syntax for running the script or function
     PS C:\> Invoke-BuildPipeline
 .NOTES
-    Filename: Name of the Script
+    Filename: Invoke-BuildPipeline.ps1
     Author: Praveen M
     Created date: 2024-01-21
     Version 1.0  
